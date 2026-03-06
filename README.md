@@ -1,7 +1,7 @@
 # Olá 👋 Eu sou Jhonatan
 
 💻 Estudante de **Desenvolvimento FullStack**  
-📱 Focado em **Flutter e desenvolvimento mobile**  
+📱 Focado em **Banco de dados**  
 🚀 Apaixonado por **tecnologia e programação**
 
 ---
@@ -24,19 +24,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhonatan123T&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan123T&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🚀 Projetos em destaque
 
@@ -45,9 +32,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 🔹 Automação com **Python**
 
 ---
-
 ## 📫 Contato
 
-💼 LinkedIn  
-📧 Email  
-🌐 Portfólio (em breve)
+📧 Email: jhonatan.william.ads@gmail.com
+
+💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/jhw-analitc/)

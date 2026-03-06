@@ -40,6 +40,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 💼 LinkedIn: [linkedin.com/in/seuusuario](https://www.linkedin.com/in/jhw-analitc/)
 
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/Jhonatan123T/Jhonatan123T/blob/output/github-contribution-grid-snake.svg)

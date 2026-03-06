@@ -1,5 +1,7 @@
 # Olá 👋 Eu sou Jhonatan
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+FullStack;Flutter+Developer;Apaixonado+por+Tecnologia">
+
 💻 Estudante de **Desenvolvimento FullStack**  
 📱 Focado em **Banco de dados**  
 🚀 Apaixonado por **tecnologia e programação**
